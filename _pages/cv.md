@@ -9,51 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* PhD in Astrophysics (2018 - present) University of Exeter
+* BSc Physics with Theoretical Physics (2015 - 2018) Imperial College London, 1st Class Honours
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research Experience
+* BSc Project (2018) On the dynamics of globulettes in HII regions by using a semi-analytical approach. Imperial College London. Supervised by [Dr Thomas Haworth](https://www.qmul.ac.uk/spa/people/academics/profiles/haworth-thomas.html).
+* DAAD Scholarship (2017) Forced Rayleigh Scattering. Albert-Ludwigs-Universität Freiburg. Supervised by [Prof Eckhard Bartsch](https://www.colloids.uni-freiburg.de/Bartsch). 
+  
+## Teaching 
+* PHY3068 Principles of Theoretical Physics demonstrator (2020)
+* 1st year mathematics problem class tutor (2019 - 2020)
+* 2nd year physics problem class tutor (2018 - 2020)
+* 2nd year physics laboratory demonstrator (2018 - 2019)
+* Physics teacher at Methodist High School, Malacca (2018)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Outreach 
+* Stargazing at Stoke Hill (November 2019 & March 2020)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
