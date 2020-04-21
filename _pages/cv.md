@@ -25,7 +25,7 @@ redirect_from:
 * Physics teacher at Methodist High School, Malacca (2018)
 
 ## Outreach 
-* Stargazing at Stoke Hill (November 2019 & March 2020)
+* Stargazing at Stoke Hill, Exeter (November 2019 & March 2020)
 
 
 
