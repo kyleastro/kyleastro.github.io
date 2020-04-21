@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publ-talks/
+permalink: /KY-publ/
 author_profile: true
 
 ---
