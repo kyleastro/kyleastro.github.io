@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello there!
+I'm a second year PhD student in Astrophysics at the University of Exeter, UK. My project is to understand the formation of young massive clusters (YMCs) through numerical simulations. Currently, I focus on the formation of YMCs via cloud-cloud collision. 
+
+
 
 
