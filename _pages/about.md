@@ -16,7 +16,9 @@ I'm a second year PhD student in Astrophysics at the University of Exeter, UK. M
 
 A 18,000 solar masses cluster formed through the collision of two giant molecular clouds colliding at about 20 km/s relative to each other. Simulation was done using [PHANTOM](https://phantomsph.bitbucket.io/) (Price et al. 2018) and visualised using [SPLASH](http://users.monash.edu.au/~dprice/splash/index.html) (Price 2007).
  
- 
+---
+
+This template is from [academicpages](https://academicpages.github.io/).
 
 
 
