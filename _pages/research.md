@@ -12,4 +12,4 @@ Young massive clusters (YMCs) are recently formed astronomical objects in galaxi
 
 ![ESO Westerlund 1](/images/westerlund1.jpg | width=100)
 
-An image
+An image of Westerlund 1 (image credit: ESO).
