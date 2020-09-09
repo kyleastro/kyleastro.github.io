@@ -12,4 +12,8 @@ I'm a second year PhD student in Astrophysics at the University of Exeter, UK. M
 
 ---
 
+I'm from Malacca, a historical city in Malaysia. During my free time, I enjoy reading about things like theoretical physics, politics, and sometimes philosophy. I also like to pretend I understand them. 
+
+---
+
 This template is from [academicpages](https://academicpages.github.io/).
