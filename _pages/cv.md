@@ -24,6 +24,11 @@ redirect_from:
 * 2nd year physics laboratory demonstrator (2018 - 2019)
 * Physics teacher at Methodist High School, Malacca (2018)
 
+## Talks/Presentations
+* SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
+    * Talk: [On the Formation of Young Massive Clusters via Cloud-cloud Collision](https://starformmapper.org/wp-content/uploads/sites/30/2019/10/Liow_Kong_Tuesday-compressed.pdf)
+* 14th International SPHERIC SPH Workshop. Exeter, UK. 24-27 June 2019.
+
 ## Outreach
 * Stargazing at Stoke Hill, Exeter (November 2019 & March 2020)
 * Python Workshop by [Exeter Data Analytics Hub](https://exeter-data-analytics.github.io/) (November 2019)
