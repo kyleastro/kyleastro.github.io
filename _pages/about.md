@@ -12,9 +12,7 @@ I'm a second year PhD student in Astrophysics at the University of Exeter, UK. M
 
 ---
 
-I'm from [Malacca](https://en.wikipedia.org/wiki/Malacca), a historical city in Malaysia. Due to its location between the Indian Ocean and the Pacific Ocean, it became the foundation site of the Malacca Sultanate in year 1400 and an important trading port for the Portuguese, the Dutch, and the British during the colonial period. 
-
-During my free time, I enjoy reading about things like theoretical physics, politics, and sometimes philosophy. I also like to pretend I understand them.
+I'm from [Malacca](https://en.wikipedia.org/wiki/Malacca), a beautiful and historical city in Malaysia. During my free time, I enjoy reading about things like theoretical physics, politics, and sometimes philosophy. I also like to pretend I understand them.
 
 ---
 
