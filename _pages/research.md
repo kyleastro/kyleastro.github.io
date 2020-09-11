@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Versi Bahasa Melayu](/_pages/research-malay.md)
+[Versi Bahasa Melayu](/research/in-malay/)
 
 Young massive clusters (YMCs, sometimes known as [super star clusters](https://en.wikipedia.org/wiki/Super_star_cluster)) are recently formed astronomical objects in galaxies. They are commonly thought as the building blocks of galaxies and the small but excellent star-making factories, yet how they are born is still not fully understood. Being young and massive, YMCs lie somewhere in between [globular clusters](https://en.wikipedia.org/wiki/Globular_cluster) and [open clusters](https://en.wikipedia.org/wiki/Open_cluster) in the mass-age spectrum. A YMC is typically 10,000 times more massive than the Sun and 10,000 times denser than the outer space. It has age less than 100 million years, very young with respect to the age of the universe. A relatively well known YMC in our galaxy is [Westerlund 1](https://en.wikipedia.org/wiki/Westerlund_1) as shown below (image credit: ESO).
 
