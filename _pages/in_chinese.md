@@ -2,7 +2,7 @@
 layout: archive
 title: "中文版"
 collection: research
-permalink: /research/in-chinese/
+permalink: /in-chinese/
 author_profile: true
 ---
 
