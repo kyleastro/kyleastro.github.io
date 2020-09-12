@@ -14,6 +14,6 @@ I'm from [Malacca](https://en.wikipedia.org/wiki/Malacca), a beautiful and histo
 
 ---
 
-(中文)[/in-chinese/]版点击此处。
+[中文](/in-chinese/)版点击此处。
 
 This template is from [academicpages](https://academicpages.github.io/).
