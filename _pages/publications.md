@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Liow K. Y.**, Dobbs C. L., 2020, in preparation
+**Liow K. Y.**, Dobbs C. L., 2020, accepted for publication in MNRAS
 
    'The role of collision speed, cloud density, and turbulence in the formation of young massive clusters via cloud-cloud collisions'   
 
