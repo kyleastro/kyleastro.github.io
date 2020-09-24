@@ -11,9 +11,9 @@ title                    : "Kong You Liow"
 title_separator          : "-"
 name                     : &name "Kong You Liow"
 description              : &description "PhD in Astrophysics at the University of Exeter"
-url                      : https://kyleastro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kyliow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kyleastro/kyleastro.github.io"
+repository               : "kyliow/kyliow.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
