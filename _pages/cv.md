@@ -26,7 +26,7 @@ redirect_from:
 
 ## Conferences (C) and Talks (T)
 * T: Journal Club Meeting. Radio Cosmology Lab, University of Malaya, Malaysia. 12 October 2020.
-* CT: EMPS PGR Conference. Exeter, UK. 8-9 January 2020. (Won Physics Prize for the best talk in physics category)
+* CT: EMPS PGR Conference. Exeter, UK. 8-9 January 2020. EMPS Con 2020 Physics Prize.
 * CT: SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
 * C: 14th International SPHERIC SPH Workshop. Exeter, UK. 24-27 June 2019.
 
