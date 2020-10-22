@@ -18,6 +18,6 @@ Dari sudut pencerapan dan teori, terdapat beberapa cara pembentukan YMC yang dic
 
 Dalam kerja penyelidikan saya, saya mengguna PHANTOM, sebuah atur cara komputer astrofizik yang mengaplikasikan teori [dinamik bendalir zarah berlicin](https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics) untuk menjalankan simulasi berangka pelanggaran awan. Dengan penyelia saya, kami menganalisis keadaan awal pelanggaran awam, contohnya kelajuan pelanggaran, tahap pergolakan dan ketumpatan awan, lalu menyiasat keadaan yang terbaik untuk membentuk kelompok berjisim besar. Salah satu analisis saya melibatkan penggunaan algoritma analisis kluster untuk mengenal pasti kelompok bintang. Baru-baru ini, dengan serong ahli astrofizik, kami mengguna atur cara computer bernama AMUSE untuk menjalan semula simulasi-simulasi sebelumnya, supaya dapat membentuk kelompok bintang yang lebih tepat dan realistik.
 
-[Tekan sini](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=%20author%3A%22Liow%2C%20Kong%20You%22&sort=date%20desc%2C%20bibcode%20desc&p_=0 ) untuk membaca artikel-artikel saya.
+[Tekan sini](https://ui.adsabs.harvard.edu/public-libraries/xJKSoxdeRo-HhGKtd9QNmw) untuk membaca artikel-artikel saya.
 
 Nota: Nama orang telah diabaikan.

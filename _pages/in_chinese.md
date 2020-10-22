@@ -18,6 +18,6 @@ author_profile: true
 
 在我研究工作中，我应用PHANTOM，一以[光滑粒子流动体力学](https://zh.wikipedia.org/wiki/%E5%85%89%E6%BB%91%E7%B2%92%E5%AD%90%E6%B5%81%E4%BD%93%E5%8A%A8%E5%8A%9B%E5%AD%A6)计算的天文物理学电脑程序来进行巨分子云碰撞数值模拟。我与导师一同探讨形成大质量星团所需的碰撞初始条件，尤其是碰撞速度、湍流和巨分子云密度。研究方法其一应用聚类分析量化模拟产生的星团。近来，我与一研究员应用AMUSE电脑程序重建之前的模拟，以形成更为准确与真实的星团。
 
-[点击](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=%20author%3A%22Liow%2C%20Kong%20You%22&sort=date%20desc%2C%20bibcode%20desc&p_=0 )阅读我的学术文稿。
+[点击](https://ui.adsabs.harvard.edu/public-libraries/xJKSoxdeRo-HhGKtd9QNmw)阅读我的学术文稿。
 
 注：人名已被略去。天文学名词取自[中国国家天文科学数据中心网](http://astrodict.china-vo.org/)。
