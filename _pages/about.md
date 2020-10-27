@@ -18,4 +18,6 @@ Tekan untuk versi [Bahasa Malaysia](/in-malay/).
 
 [中文](/in-chinese/)版点击此处。
 
-This template is from [academicpages](https://academicpages.github.io/).
+---
+
+You're about to enter [Narnia](/misc/)...
