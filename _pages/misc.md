@@ -6,4 +6,4 @@ author_profile: true
 
 ---
 
-News
+News that are related to my academic journey [here](/misc/news/).
