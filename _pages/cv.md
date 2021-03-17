@@ -24,12 +24,18 @@ redirect_from:
 * 2nd year physics laboratory demonstrator (2018 - 2019)
 * Physics teacher at Methodist High School, Malacca (2018)
 
-## Conferences (C) and Talks (T)
-* C: IAU CB1 Challenges and Innovations in Computational Astrophysics - II. Virtual. 18-21 November 2020.
-* T: Journal Club Meeting. Radio Cosmology Lab, University of Malaya, Malaysia. 12 October 2020.
-* CT: EMPS PGR Conference. Exeter, UK. 8-9 January 2020. EMPS Con 2020 Physics Prize.
-* CT: SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
-* C: 14th International SPHERIC SPH Workshop. Exeter, UK. 24-27 June 2019.
+## Conferences and Workshops
+* Bringing Stellar Evolution and Feedback Together. Virtual, Lorentz Center, NL. 15-16 March 2021.
+* IAU CB1 Challenges and Innovations in Computational Astrophysics - II. Virtual. 18-21 November 2020.
+* EMPS PGR Conference. Exeter, UK. 8-9 January 2020.
+* SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
+* 14th International SPHERIC SPH Workshop. Exeter, UK. 24-27 June 2019.
+
+## Talks
+* Journal Club Meeting. Radio Cosmology Lab, University of Malaya, MY. 12 October 2020.
+* EMPS PGR Conference. Exeter, UK. 8-9 January 2020. EMPS Con 2020 Physics Prize.
+* SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
+* Journal Club Meeting. Exeter, UK. 
 
 ## Outreach
 * Stargazing at Stoke Hill, Exeter (November 2019 & March 2020)
