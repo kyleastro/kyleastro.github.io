@@ -32,10 +32,10 @@ redirect_from:
 * 14th International SPHERIC SPH Workshop. Exeter, UK. 24-27 June 2019.
 
 ## Talks
-* Journal Club Meeting. Radio Cosmology Lab, University of Malaya, MY. 12 October 2020.
+* Journal Club Meeting. Virtual, Radio Cosmology Lab, University of Malaya, MY. 12 October 2020.
 * EMPS PGR Conference. Exeter, UK. 8-9 January 2020. EMPS Con 2020 Physics Prize.
 * SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
-* Journal Club Meeting. Exeter, UK. 
+* Journal Club Meeting. Exeter, UK.
 
 ## Outreach
 * Stargazing at Stoke Hill, Exeter (November 2019 & March 2020)
