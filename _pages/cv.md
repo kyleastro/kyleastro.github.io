@@ -17,13 +17,6 @@ redirect_from:
 * BSc Project (2018) On the dynamics of globulettes in HII regions by using a semi-analytical approach. Imperial College London. Supervised by [Dr Thomas Haworth](https://www.qmul.ac.uk/spa/people/academics/profiles/haworth-thomas.html).
 * DAAD Scholarship (2017) Forced Rayleigh Scattering. Albert-Ludwigs-Universität Freiburg. Supervised by [Prof Eckhard Bartsch](https://www.colloids.uni-freiburg.de/Bartsch).
 
-## Teaching
-* 1st year mathematics problem class tutor (2019 - present)
-* 2nd year physics problem class tutor (2018 - present)
-* PHY3068 Principles of Theoretical Physics demonstrator (2020)
-* 2nd year physics laboratory demonstrator (2018 - 2019)
-* Physics teacher at Methodist High School, Malacca (2018)
-
 ## Conferences and Workshops
 * Bringing Stellar Evolution and Feedback Together. Virtual, Lorentz Center, NL. 15-16 March 2021.
 * IAU CB1 Challenges and Innovations in Computational Astrophysics - II. Virtual. 18-21 November 2020.
@@ -37,6 +30,14 @@ redirect_from:
 * SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
 * Journal Club Meeting. Exeter, UK.
 
+## Teaching
+* 1st year mathematics problem class tutor (2019 - present)
+* 2nd year physics problem class tutor (2018 - present)
+* PHY3068 Principles of Theoretical Physics demonstrator (2020)
+* 2nd year physics laboratory demonstrator (2018 - 2019)
+* Physics teacher at Methodist High School, Malacca (2018)
+
 ## Outreach
-* Stargazing at Stoke Hill, Exeter (November 2019 & March 2020)
-* Python Workshop by [Exeter Data Analytics Hub](https://exeter-data-analytics.github.io/) (November 2019)
+* [100 Scientists of Malaysia](https://www.facebook.com/100Scientists/posts/362919765075782). October 2020.
+* Stargazing at Stoke Hill, Exeter. November 2019 & March 2020.
+* Python Workshop by [Exeter Data Analytics Hub](https://exeter-data-analytics.github.io/). November 2019.
