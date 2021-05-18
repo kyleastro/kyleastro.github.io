@@ -17,22 +17,23 @@ redirect_from:
 * BSc Project (2018) On the dynamics of globulettes in HII regions by using a semi-analytical approach. Imperial College London. Supervised by [Dr Thomas Haworth](https://www.qmul.ac.uk/spa/people/academics/profiles/haworth-thomas.html).
 * DAAD Scholarship (2017) Forced Rayleigh Scattering. Albert-Ludwigs-Universität Freiburg. Supervised by [Prof Eckhard Bartsch](https://www.colloids.uni-freiburg.de/Bartsch).
 
+## Talks
+* Invited journal club presentation. Virtual, Radio Cosmology Lab, University of Malaya, MY. 12 October 2020.
+* EMPS PGR Conference. Exeter, UK. 8-9 January 2020. EMPS Con 2020 Physics Prize.
+* SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
+* Various journal club meetings. Exeter, UK.
+
 ## Conferences and Workshops
+* ISM 2021: Structure, Characteristic Scales, and Star Formation. Virtual, Beirut, LB. 11-14 May 2021.
 * Bringing Stellar Evolution and Feedback Together. Virtual, Lorentz Center, NL. 15-16 March 2021.
 * IAU CB1 Challenges and Innovations in Computational Astrophysics - II. Virtual. 18-21 November 2020.
 * EMPS PGR Conference. Exeter, UK. 8-9 January 2020.
 * SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
 * 14th International SPHERIC SPH Workshop. Exeter, UK. 24-27 June 2019.
 
-## Talks
-* Journal Club Meeting. Virtual, Radio Cosmology Lab, University of Malaya, MY. 12 October 2020.
-* EMPS PGR Conference. Exeter, UK. 8-9 January 2020. EMPS Con 2020 Physics Prize.
-* SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
-* Journal Club Meeting. Exeter, UK.
-
 ## Teaching
-* 1st year mathematics problem class tutor (2019 - present)
-* 2nd year physics problem class tutor (2018 - present)
+* 1st year mathematics problem class tutor (2019 - 2021)
+* 2nd year physics problem class tutor (2018 - 2021)
 * PHY3068 Principles of Theoretical Physics demonstrator (2020)
 * 2nd year physics laboratory demonstrator (2018 - 2019)
 * Physics teacher at Methodist High School, Malacca (2018)
