@@ -23,7 +23,8 @@ redirect_from:
 * SFM From Gas to Stars: The Links between Massive Star and Star Cluster Formation. York, UK. 16-20 September 2019.
 * Various journal club meetings. Exeter, UK.
 
-## Conferences and Workshops
+## Conferences, Workshops, & Summer Schools
+* ESCAPE Summer School: Data Science for Astrophysics & Particle Physics. Virtual, LAPP, Annecy, FR. 7-18 June 2021.
 * ISM 2021: Structure, Characteristic Scales, and Star Formation. Virtual, Beirut, LB. 11-14 May 2021.
 * Bringing Stellar Evolution and Feedback Together. Virtual, Lorentz Center, NL. 15-16 March 2021.
 * IAU CB1 Challenges and Innovations in Computational Astrophysics - II. Virtual. 18-21 November 2020.
