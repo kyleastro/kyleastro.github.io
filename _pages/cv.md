@@ -24,6 +24,7 @@ redirect_from:
 * Various journal club meetings. Exeter, UK.
 
 ## Conferences, Workshops, & Summer Schools
+* European Astronomical Society Annual Meeting. Virtual, Leiden, NL. 28 June-2 July 2021.
 * ESCAPE Summer School: Data Science for Astrophysics & Particle Physics. Virtual, LAPP, Annecy, FR. 7-18 June 2021.
 * ISM 2021: Structure, Characteristic Scales, and Star Formation. Virtual, Beirut, LB. 11-14 May 2021.
 * Bringing Stellar Evolution and Feedback Together. Virtual, Lorentz Center, NL. 15-16 March 2021.
