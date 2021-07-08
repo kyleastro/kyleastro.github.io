@@ -20,4 +20,4 @@ In my research, I use [PHANTOM](https://phantomsph.bitbucket.io/), a [smoothed p
 
 ![Nice Simulation Pic](/images/pic_for_front.png)
 
-An 18,000 solar mass cluster formed through the collision of two giant molecular clouds at about 20 km/s relative to each other. The simulation was done using PHANTOM (Price et al. 2018) and visualised using [SPLASH](http://users.monash.edu.au/~dprice/splash/index.html) (Price 2007).
+Figure shows an 18,000 solar mass cluster formed through the collision of two giant molecular clouds at about 20 km/s relative to each other. The simulation was done using PHANTOM (Price et al. 2018) and visualised using [SPLASH](http://users.monash.edu.au/~dprice/splash/index.html) (Price 2007).
